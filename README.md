@@ -1,4 +1,4 @@
-<div style="display: flex; gap: .3rem; height: 200px;">
+<div style="display: flex; gap: .3rem; height: 150px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Yone's Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=yone1130&theme=tokyonight&layout=donut" style="height: 100%;"/>
   </a>
