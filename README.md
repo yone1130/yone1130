@@ -21,6 +21,6 @@ I'm a application developer and music creator from Japan.
 
 <img alt="Yone's skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=js,ts,python,cs,dart,html,css,markdown" />
 
-### Frameworks / Libraies / Other
+### Frameworks / Libraries / Other
 
 <img alt="Yone's skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=react,flutter,git,github,cloudflare,workers" />
