@@ -30,5 +30,5 @@ I'm a application developer and music creator from Japan.
   <img alt="YDITS Logo" src="https://cdn.ydits.net/images/ydits-logos/ydits_logo_full_white_transparent.png" height="200px"/>
 </p>
 
-I operate a disaster prevention service YDITS™.
+I operate a disaster prevention service YDITS™.  
 [→ YDITS's GitHub](https://github.com/YDITS/)
