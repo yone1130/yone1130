@@ -1,4 +1,3 @@
-
 # Hi👋 I'm よね/Yone
 
 I'm a application developer and music creator from Japan.
@@ -32,3 +31,4 @@ I'm a application developer and music creator from Japan.
 </p>
 
 I operate a disaster prevention service YDITS™.
+[→ YDITS's GitHub](https://github.com/YDITS/)
