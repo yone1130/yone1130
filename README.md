@@ -16,13 +16,13 @@ I'm a application developer and music creator from Japan.
 
 ## My Skills
 
-### Languages
-
-<img alt="Yone's skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=js,ts,python,cs,dart,html,css,markdown" />
-
 ### Frameworks / Libraries / Other
 
-<img alt="Yone's skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=react,flutter,git,github,cloudflare,workers" />
+<img alt="Yone's skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=flutter,nextjs,react,nodejs,cloudflare,workers,dotnet" />
+
+### Languages
+
+<img alt="Yone's skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ts,js,dart,python,cs,html,css,markdown" />
 
 ## My Works
 
