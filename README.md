@@ -26,9 +26,9 @@ I'm a application developer and music creator from Japan.
 
 ## My Works
 
-<p align="center">
+<p align="left">
   <a href="https://www.ydits.net">
-    <img alt="YDITS Logo" src="https://cdn.ydits.net/images/ydits-logos/ydits_logo_full.png" />
+    <img alt="YDITS Logo" src="https://cdn.ydits.net/images/ydits-logos/ydits_icon.png" height="200px" />
   </a>
 </p>
 
